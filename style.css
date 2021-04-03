@@ -136,7 +136,7 @@ input,textarea,select{
   font-size: 16px;
   font-family: 'Rubik', sans-serif;font-weight: 500;
   padding: 12px 35px;
-  color: #ffffff;
+  color: #FFFFFF;
   border-radius: 40px;
   transition: all 0.3s ease;
   display: inline-block;
@@ -356,7 +356,7 @@ input,textarea,select{
   width: 200px;
   border-radius: 50%;
   display: inline-block;
-  border: 8px solid #ffffff;
+  border: 8px solid #FFFFFF;
 }
 .home .intro h1{
   font-size: 30px;
@@ -381,7 +381,7 @@ input,textarea,select{
   display: inline-block;
   text-align: center;
   line-height: 35px;
-  color: #ffffff;
+  color: #FFFFFF;
   border-radius: 50%;
   margin: 0 4px;
   text-decoration: none;
