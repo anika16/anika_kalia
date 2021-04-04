@@ -27,7 +27,7 @@ input,textarea,select{
   font-family: 'Montserrat', sans-serif;
 }
 .section{
-  background-color: ##cccccc;
+  background-color: #f2f2fc;
   min-height: 100vh;
   display: block;
   padding: 0 30px;
